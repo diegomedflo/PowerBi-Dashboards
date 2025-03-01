@@ -18,7 +18,7 @@ This Power BI dashboard analyzes real estate listings in Colombia, focusing on p
 - **📊 Analysis-of-Properties-Colombia.pbix** → Power BI file.  
 
 ## 📜 Data Source  
-Data was collected from [Fincaraiz(https://www.fincaraiz.com.co/)] and processed for analysis.  
+Data was collected from [Fincaraiz](https://www.fincaraiz.com.co/) and processed for analysis. 
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file and open it in **Power BI Desktop**.  
