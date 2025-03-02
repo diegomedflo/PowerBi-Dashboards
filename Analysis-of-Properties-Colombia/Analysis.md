@@ -11,8 +11,8 @@
 - Apartments tend to have fewer rooms than houses.
 
 ## **3. Rooms vs Socioeconomic Stratum**
-- In lower strata (**1 and 2**), most properties have **1 or 2 rooms**.
-- In middle and upper strata (**3, 4, 5, and 6**), more properties have **3 or more rooms**.
+- In lower stratum (**1 and 2**), most properties have **1 or 2 rooms**.
+- In middle and upper stratum (**3, 4, 5, and 6**), more properties have **3 or more rooms**.
 - This suggests a relationship between socioeconomic status and property size.
 
 ## **4. Property Age by Department**
@@ -20,8 +20,8 @@
 - Newer properties (less than 1 year old) are less represented, indicating that the real estate market is dominated by older constructions.
 
 ## **5. Stratum vs Garages**
-- In lower strata (**1 and 2**), it is more common for properties **not to have garages**.
-- In higher strata (**4, 5, and 6**), most properties **have at least one garage**.
+- In lower stratum (**1 and 2**), it is more common for properties **not to have garages**.
+- In higher stratum (**4, 5, and 6**), most properties **have at least one garage**.
 
 ## **6. Geographical Distribution**
 - Bogotá has the highest number of properties in the dataset, suggesting a more dynamic real estate market in this city.
