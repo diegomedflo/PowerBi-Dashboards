@@ -16,7 +16,7 @@
 - This suggests a relationship between socioeconomic status and property size.
 
 ## **4. Property Age by Department**
-- Bogotá and Antioquia have a large number of properties **older than 30 years**.
+- Bogota and Antioquia have a large number of properties **older than 30 years**.
 - Newer properties (less than 1 year old) are less represented, indicating that the real estate market is dominated by older constructions.
 
 ## **5. Stratum vs Garages**
