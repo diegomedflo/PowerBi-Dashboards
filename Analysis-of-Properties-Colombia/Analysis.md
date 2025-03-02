@@ -3,7 +3,7 @@
 ## **1. Property Count**
 - The dataset contains **94,358 properties**.
 - Of these, **56,085 are apartments**, and **38,273 are houses**.
-- The highest number of properties is located in **Bogotá**, followed by **Cali and Medellín**.
+- The highest number of properties is located in **Bogota**, followed by **Cali and Medellin**.
 
 ## **2. Distribution of Rooms and Bathrooms**
 - Most properties have **2 or 3 rooms**.
@@ -28,7 +28,7 @@
 - Other cities with significant representation include Cali, Medellín, Pereira, and Manizales.
 
 ## **Conclusions**
-- **Bogotá is the real estate hub**, with the highest number of properties.
+- **Bogota is the real estate hub**, with the highest number of properties.
 - **Lower-stratum properties are smaller and have fewer garages**, while **higher-stratum properties tend to be larger and better equipped**.
 - **Older properties dominate the market**, though there is a significant number of houses with an age between **9 and 30 years**.
 - **Apartments outnumber houses**, but houses tend to be larger with more rooms.
