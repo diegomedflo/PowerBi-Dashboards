@@ -37,10 +37,10 @@
 
 ## **Images**
 ### **1. General Distribution**
-![General Distribution](Analysis-of-Properties-Colombia/images/Analisis-de-Caracteristicas-Filtro-Todo-All.png)
+![General Distribution](Analysis-of-Properties-Colombia/images/Feature-Analysis-General.png)
 
 ### **2. Apartments Only**
-![Apartments Only](Analysis-of-Properties-Colombia/images/Analisis-de-Caracteristicas-Filtro-Apartamento-Apartment.png)
+![Apartments Only](Analysis-of-Properties-Colombia/images/Feature-Analysis-Apartment.png)
 
 ### **3. Houses Only**
-![Houses Only](Analysis-of-Properties-Colombia/images/Analisis-de-Caracteristicas-Filtro-Casa-House.png)
+![Houses Only](Analysis-of-Properties-Colombia/images/Feature-Analysis-House.png)
